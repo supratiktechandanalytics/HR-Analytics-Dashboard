@@ -6,7 +6,7 @@
 **Preview of Projects:**
 
 **Power BI HR Analytics Dashboard:**
-![HR Analytics POwer BI Dashboard](https://github.com/supratiktechandanalytics/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard%20Power%20BI.pbix) 
+![HR Analytics POwer BI Dashboard](https://github.com/supratiktechandanalytics/HR-Analytics-Dashboard/blob/main/Employee%20analytics.jpeg) 
 
 **SQL Queries:**
 ![SQL Queries HR Analytics](https://github.com/supratiktechandanalytics/HR-Analytics-Dashboard/blob/main/SQL%20Portfolio%20Project.docx)
